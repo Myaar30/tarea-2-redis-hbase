@@ -1,0 +1,30 @@
+name: tarea2-galaz-yanez-roa
+services:
+  redis:
+    image: redis:7.4.2-alpine
+    command: [redis-server, --appendonly, 'yes', --appendfsync, everysec, --save, '']
+    ports: ['127.0.0.1:6379:6379']
+    volumes: [redis-data:/data]
+    healthcheck:
+      test: [CMD, redis-cli, ping]
+      interval: 3s
+      timeout: 3s
+      retries: 30
+  hbase:
+    build: ./hbase
+    image: tarea2-hbase:2.5.15
+    hostname: tarea2-hbase
+    environment:
+      HBASE_HEAPSIZE: '1536'
+    ports: ['127.0.0.1:9090:9090', '127.0.0.1:16010:16010']
+    volumes: [hbase-data:/data]
+    stop_grace_period: 90s
+    healthcheck:
+      test: [CMD-SHELL, "echo \"exists 'hbase:meta'\" | hbase shell -n 2>/dev/null | grep -q 'does exist' && bash -c '</dev/tcp/127.0.0.1/9090'"]
+      interval: 15s
+      timeout: 40s
+      retries: 20
+      start_period: 30s
+volumes:
+  redis-data:
+  hbase-data:

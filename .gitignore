@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.runtime/
+datos/
+*.parquet
+*.csv
+*.sqlite*
+*.rdb
+*.aof*
+.env
+.env.*
+!.env.example
+volumes/
+tmp/
+*.log

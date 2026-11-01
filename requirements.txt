@@ -1,0 +1,9 @@
+redis==5.2.1
+happybase==1.2.0
+thriftpy2==0.5.3
+reportlab==4.4.3
+psutil==7.0.0
+six==1.17.0
+ply==3.11
+pillow==13.0.0
+charset-normalizer==3.5.2

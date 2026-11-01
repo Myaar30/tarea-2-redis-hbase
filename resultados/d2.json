@@ -1,0 +1,183 @@
+{
+  "aof": {
+    "antes": {
+      "stream_entradas": 3000,
+      "stream_sha256": "35581f16b28f522a6844577cdb2cd8047b594bd5b5a3a8bfafc62fae4d10804d",
+      "grupos": [
+        {
+          "name": "ingesta",
+          "consumers": 1,
+          "pending": 100,
+          "last-delivered-id": "1793570813977-0",
+          "entries-read": 2900,
+          "lag": 100
+        },
+        {
+          "name": "tablero",
+          "consumers": 1,
+          "pending": 0,
+          "last-delivered-id": "1793570814361-0",
+          "entries-read": 3000,
+          "lag": 0
+        }
+      ],
+      "pendientes": {
+        "ingesta": {
+          "pending": 100,
+          "min": "1793570813612-0",
+          "max": "1793570813977-0",
+          "consumers": [
+            {
+              "name": "ingesta-d2",
+              "pending": 100
+            }
+          ]
+        },
+        "tablero": {
+          "pending": 0,
+          "min": null,
+          "max": null,
+          "consumers": []
+        }
+      },
+      "ultimo_hashes": 16,
+      "ultimo_sha256": "dd075d30da8490ece5d6787a2d2be980d4b782093174c1dbd900c5a027cbc6c6",
+      "ventana_estaciones": 8,
+      "ventana_lecturas": 572,
+      "ventanas_sha256": "c44d43d42f30c49b60264e1bae9bdcb6b12a084919a1e02dc2f68e001f933b53"
+    },
+    "despues": {
+      "stream_entradas": 3000,
+      "stream_sha256": "35581f16b28f522a6844577cdb2cd8047b594bd5b5a3a8bfafc62fae4d10804d",
+      "grupos": [
+        {
+          "name": "ingesta",
+          "consumers": 1,
+          "pending": 100,
+          "last-delivered-id": "1793570813977-0",
+          "entries-read": 2900,
+          "lag": 100
+        },
+        {
+          "name": "tablero",
+          "consumers": 1,
+          "pending": 0,
+          "last-delivered-id": "1793570814361-0",
+          "entries-read": 3000,
+          "lag": 0
+        }
+      ],
+      "pendientes": {
+        "ingesta": {
+          "pending": 100,
+          "min": "1793570813612-0",
+          "max": "1793570813977-0",
+          "consumers": [
+            {
+              "name": "ingesta-d2",
+              "pending": 100
+            }
+          ]
+        },
+        "tablero": {
+          "pending": 0,
+          "min": null,
+          "max": null,
+          "consumers": []
+        }
+      },
+      "ultimo_hashes": 16,
+      "ultimo_sha256": "dd075d30da8490ece5d6787a2d2be980d4b782093174c1dbd900c5a027cbc6c6",
+      "ventana_estaciones": 8,
+      "ventana_lecturas": 572,
+      "ventanas_sha256": "c44d43d42f30c49b60264e1bae9bdcb6b12a084919a1e02dc2f68e001f933b53"
+    },
+    "hbase_filas_antes": {
+      "d2_lecturas": 2747,
+      "d2_lecturas_tipo": 2747
+    },
+    "hbase_filas_despues": {
+      "d2_lecturas": 2747,
+      "d2_lecturas_tipo": 2747
+    },
+    "eventos_producidos": 3000,
+    "eventos_confirmados_hbase": 2800,
+    "pendientes_sin_put": 100,
+    "sin_entregar_a_ingesta": 100,
+    "ventana_eventos_sin_confirmar": 200,
+    "segundos_simulados_sin_confirmar": 100
+  },
+  "sin_persistencia": {
+    "antes": {
+      "stream_entradas": 3000,
+      "stream_sha256": "9369534b604d83c589e63aa0f1fe2e6bc09b693ee563bb2b4fbad1f06af831c2",
+      "grupos": [
+        {
+          "name": "ingesta",
+          "consumers": 1,
+          "pending": 100,
+          "last-delivered-id": "1793570879548-0",
+          "entries-read": 2900,
+          "lag": 100
+        },
+        {
+          "name": "tablero",
+          "consumers": 1,
+          "pending": 0,
+          "last-delivered-id": "1793570879968-0",
+          "entries-read": 3000,
+          "lag": 0
+        }
+      ],
+      "pendientes": {
+        "ingesta": {
+          "pending": 100,
+          "min": "1793570879147-0",
+          "max": "1793570879548-0",
+          "consumers": [
+            {
+              "name": "ingesta-d2",
+              "pending": 100
+            }
+          ]
+        },
+        "tablero": {
+          "pending": 0,
+          "min": null,
+          "max": null,
+          "consumers": []
+        }
+      },
+      "ultimo_hashes": 16,
+      "ultimo_sha256": "dd075d30da8490ece5d6787a2d2be980d4b782093174c1dbd900c5a027cbc6c6",
+      "ventana_estaciones": 8,
+      "ventana_lecturas": 572,
+      "ventanas_sha256": "c44d43d42f30c49b60264e1bae9bdcb6b12a084919a1e02dc2f68e001f933b53"
+    },
+    "despues": {
+      "stream_entradas": 0,
+      "stream_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "grupos": [],
+      "pendientes": {},
+      "ultimo_hashes": 0,
+      "ultimo_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "ventana_estaciones": 0,
+      "ventana_lecturas": 0,
+      "ventanas_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    "hbase_filas_antes": {
+      "d2_lecturas": 2747,
+      "d2_lecturas_tipo": 2747
+    },
+    "hbase_filas_despues": {
+      "d2_lecturas": 2747,
+      "d2_lecturas_tipo": 2747
+    },
+    "eventos_producidos": 3000,
+    "eventos_confirmados_hbase": 2800,
+    "pendientes_sin_put": 100,
+    "sin_entregar_a_ingesta": 100,
+    "ventana_eventos_sin_confirmar": 200,
+    "segundos_simulados_sin_confirmar": 100
+  }
+}

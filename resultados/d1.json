@@ -1,0 +1,1238 @@
+{
+  "salida_proceso": 1,
+  "xpending_tras_muerte": {
+    "pending": 200,
+    "min": "1793570295932-0",
+    "max": "1793570300892-0",
+    "consumers": [
+      {
+        "name": "ingesta-que-muere",
+        "pending": 200
+      }
+    ]
+  },
+  "detalle_pendientes": [
+    {
+      "message_id": "1793570295932-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570295959-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570295967-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570295992-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296018-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296042-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296067-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296092-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296117-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296142-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296167-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296192-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296217-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296242-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296267-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296292-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296317-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296341-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296367-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296392-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296417-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296441-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296466-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296492-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296517-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296542-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296567-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296592-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296621-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296642-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296667-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296692-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296717-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296742-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296767-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296792-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296817-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296842-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296867-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296892-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296917-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296942-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296971-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570296992-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297017-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297042-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297067-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297092-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297117-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297142-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297167-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297192-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297218-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297242-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297267-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297292-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297317-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297342-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297367-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297392-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297417-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297442-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297467-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297493-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297517-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297542-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297567-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297592-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297617-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297642-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297667-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297692-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297717-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297742-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297767-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297792-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297817-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297842-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297867-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297892-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297917-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297942-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297967-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570297992-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298017-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298042-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298067-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298092-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298117-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298142-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298167-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298192-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298218-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298243-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298267-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298292-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298317-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298342-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298367-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298392-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298417-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298442-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298467-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298492-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298518-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298542-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298567-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298592-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298618-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298642-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298667-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298692-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298717-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298743-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298767-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298792-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298817-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298842-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298868-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298892-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298916-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298942-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298967-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570298992-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299017-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299042-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299067-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299092-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299118-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299142-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299167-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299192-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299217-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299242-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299268-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299293-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299318-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299342-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299368-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299393-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299417-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299442-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299467-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299493-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299517-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299543-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299568-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299592-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299618-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299642-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299667-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299693-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299718-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299742-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299767-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299793-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299818-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299842-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299867-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299892-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299917-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299943-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299967-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570299993-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300018-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300042-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300068-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300092-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300118-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300143-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300167-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300192-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300218-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300242-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300267-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300293-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300317-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300342-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300368-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300393-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300418-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300442-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300467-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300493-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300517-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300542-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300567-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300592-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300618-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300642-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300667-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300692-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300717-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300742-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300768-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300793-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300817-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300842-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300868-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    },
+    {
+      "message_id": "1793570300892-0",
+      "consumer": "ingesta-que-muere",
+      "time_since_delivered": 481,
+      "times_delivered": 1
+    }
+  ],
+  "consumidor_recuperacion": "ingesta-rescate",
+  "comando": "XAUTOCLAIM (min_idle_time=5000 ms)",
+  "lote": 200,
+  "clave_muestra": "CC-003#1794020400000",
+  "celda_antes": [
+    {
+      "valor": "53.9",
+      "version_timestamp": 1793570302558
+    }
+  ],
+  "celda_despues": [
+    {
+      "valor": "53.9",
+      "version_timestamp": 1793570302558
+    }
+  ],
+  "xpending_final": {
+    "pending": 0,
+    "min": null,
+    "max": null,
+    "consumers": []
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "redis": {
+    "resultado": {
+      "ultimos": {
+        "CC-001": {
+          "valor": "33.2",
+          "ts": "1794023998000",
+          "tipo": "flujo_vehicular",
+          "seq": "871196"
+        },
+        "CC-002": {
+          "valor": "62.7",
+          "ts": "1794023994000",
+          "tipo": "flujo_vehicular",
+          "seq": "871188"
+        },
+        "CC-003": {
+          "valor": "42.6",
+          "ts": "1794023997500",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871195"
+        },
+        "CC-004": {
+          "valor": "73.4",
+          "ts": "1794023993000",
+          "tipo": "calidad_aire",
+          "seq": "871186"
+        },
+        "CC-005": {
+          "valor": "19.1",
+          "ts": "1794023992500",
+          "tipo": "flujo_vehicular",
+          "seq": "871185"
+        },
+        "CHI-001": {
+          "valor": "67.8",
+          "ts": "1794023996500",
+          "tipo": "calidad_aire",
+          "seq": "871193"
+        },
+        "COR-001": {
+          "valor": "19.4",
+          "ts": "1794023983500",
+          "tipo": "calidad_aire",
+          "seq": "871167"
+        },
+        "COR-002": {
+          "valor": "62.8",
+          "ts": "1794023995500",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871191"
+        },
+        "HUA-001": {
+          "valor": "90.1",
+          "ts": "1794023991000",
+          "tipo": "flujo_vehicular",
+          "seq": "871182"
+        },
+        "HUA-002": {
+          "valor": "97.1",
+          "ts": "1794023999000",
+          "tipo": "flujo_vehicular",
+          "seq": "871198"
+        },
+        "PEN-001": {
+          "valor": "68.6",
+          "ts": "1794023987000",
+          "tipo": "flujo_vehicular",
+          "seq": "871174"
+        },
+        "SPP-001": {
+          "valor": "66.0",
+          "ts": "1794023996000",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871192"
+        },
+        "SPP-002": {
+          "valor": "98.0",
+          "ts": "1794023999500",
+          "tipo": "flujo_vehicular",
+          "seq": "871199"
+        },
+        "TAL-001": {
+          "valor": "41.0",
+          "ts": "1794023980500",
+          "tipo": "flujo_vehicular",
+          "seq": "871161"
+        },
+        "TAL-002": {
+          "valor": "60.0",
+          "ts": "1794023990000",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871180"
+        },
+        "TAL-003": {
+          "valor": "45.0",
+          "ts": "1794023998500",
+          "tipo": "calidad_aire",
+          "seq": "871197"
+        }
+      },
+      "top5": [
+        [
+          "SPP-002",
+          98.0
+        ],
+        [
+          "HUA-002",
+          97.1
+        ],
+        [
+          "HUA-001",
+          90.1
+        ],
+        [
+          "PEN-001",
+          68.6
+        ],
+        [
+          "CC-002",
+          62.7
+        ]
+      ]
+    },
+    "calentamiento_ms": 9.13280004169792,
+    "corridas_ms": [
+      3.096899949014187,
+      2.8848000802099705,
+      3.0492000514641404,
+      3.7225999403744936,
+      3.329699975438416
+    ],
+    "mediana_ms": 3.096899949014187
+  },
+  "hbase": {
+    "resultado": {
+      "ultimos": {
+        "CC-001": {
+          "valor": "33.2",
+          "ts": "1794023998000",
+          "tipo": "flujo_vehicular",
+          "seq": "871196"
+        },
+        "CC-002": {
+          "valor": "62.7",
+          "ts": "1794023994000",
+          "tipo": "flujo_vehicular",
+          "seq": "871188"
+        },
+        "CC-003": {
+          "valor": "42.6",
+          "ts": "1794023997500",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871195"
+        },
+        "CC-004": {
+          "valor": "73.4",
+          "ts": "1794023993000",
+          "tipo": "calidad_aire",
+          "seq": "871186"
+        },
+        "CC-005": {
+          "valor": "19.1",
+          "ts": "1794023992500",
+          "tipo": "flujo_vehicular",
+          "seq": "871185"
+        },
+        "CHI-001": {
+          "valor": "67.8",
+          "ts": "1794023996500",
+          "tipo": "calidad_aire",
+          "seq": "871193"
+        },
+        "COR-001": {
+          "valor": "19.4",
+          "ts": "1794023983500",
+          "tipo": "calidad_aire",
+          "seq": "871167"
+        },
+        "COR-002": {
+          "valor": "62.8",
+          "ts": "1794023995500",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871191"
+        },
+        "HUA-001": {
+          "valor": "90.1",
+          "ts": "1794023991000",
+          "tipo": "flujo_vehicular",
+          "seq": "871182"
+        },
+        "HUA-002": {
+          "valor": "97.1",
+          "ts": "1794023999000",
+          "tipo": "flujo_vehicular",
+          "seq": "871198"
+        },
+        "PEN-001": {
+          "valor": "68.6",
+          "ts": "1794023987000",
+          "tipo": "flujo_vehicular",
+          "seq": "871174"
+        },
+        "SPP-001": {
+          "valor": "66.0",
+          "ts": "1794023996000",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871192"
+        },
+        "SPP-002": {
+          "valor": "98.0",
+          "ts": "1794023999500",
+          "tipo": "flujo_vehicular",
+          "seq": "871199"
+        },
+        "TAL-001": {
+          "valor": "41.0",
+          "ts": "1794023980500",
+          "tipo": "flujo_vehicular",
+          "seq": "871161"
+        },
+        "TAL-002": {
+          "valor": "60.0",
+          "ts": "1794023990000",
+          "tipo": "ocupacion_estacionamiento",
+          "seq": "871180"
+        },
+        "TAL-003": {
+          "valor": "45.0",
+          "ts": "1794023998500",
+          "tipo": "calidad_aire",
+          "seq": "871197"
+        }
+      },
+      "top5": [
+        [
+          "SPP-002",
+          98.0
+        ],
+        [
+          "HUA-002",
+          97.1
+        ],
+        [
+          "HUA-001",
+          90.1
+        ],
+        [
+          "PEN-001",
+          68.6
+        ],
+        [
+          "CC-002",
+          62.7
+        ]
+      ]
+    },
+    "calentamiento_ms": 1190.5281000072137,
+    "corridas_ms": [
+      443.9741000533104,
+      335.2030001115054,
+      320.1145000057295,
+      299.4987000711262,
+      322.0269000157714
+    ],
+    "mediana_ms": 322.0269000157714
+  },
+  "medicion_vs_llegada": {
+    "TAL-001": {
+      "medicion": {
+        "valor": "41.0",
+        "ts": "1794023980500",
+        "tipo": "flujo_vehicular",
+        "seq": "871161"
+      },
+      "llegada": {
+        "valor": "48.9",
+        "ts": "1794023928335",
+        "tipo": "flujo_vehicular",
+        "seq": "871166"
+      }
+    }
+  }
+}

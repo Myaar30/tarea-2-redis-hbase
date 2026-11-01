@@ -1,0 +1,13 @@
+{
+  "eventos": 864000,
+  "filas_distintas_por_tabla": 846906,
+  "segundos": 129.7904920000583,
+  "eventos_s": 6656.882077306648,
+  "filas_s_por_tabla": 6525.177514541047,
+  "filas_medidas": {
+    "lecturas": 846906,
+    "lecturas_tipo": 846906
+  },
+  "puts_logicos": 1728000,
+  "tamano_lote": 1000
+}

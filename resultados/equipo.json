@@ -1,0 +1,12 @@
+{
+  "sistema": "Windows-10-10.0.26200-SP0",
+  "cpu": "AMD Ryzen 5 7520U with Radeon Graphics",
+  "ram_gib": 7.28,
+  "python": "3.11.9",
+  "cpu_docker": 8,
+  "ram_docker_gib": 3.47,
+  "docker": "29.7.2",
+  "hbase": "2.5.15 standalone",
+  "redis": "7.4.2",
+  "fecha": "2026-11-01T18:54:34.198267-03:00"
+}

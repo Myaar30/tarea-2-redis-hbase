@@ -1,0 +1,18 @@
+{
+  "historico": {
+    "eventos": 864000,
+    "repetidos": 17090,
+    "claves_distintas": 846906
+  },
+  "vivo": {
+    "eventos": 7200,
+    "repetidos": 153,
+    "claves_distintas": 7047
+  },
+  "total": {
+    "eventos": 871200,
+    "repetidos": 17243,
+    "claves_distintas": 853953
+  },
+  "segundos": 22.935897399904206
+}

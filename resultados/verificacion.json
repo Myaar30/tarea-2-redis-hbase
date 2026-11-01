@@ -1,0 +1,36 @@
+{
+  "producidos": 7200,
+  "stream_xlen": 7200,
+  "grupos": {
+    "ingesta": {
+      "procesadas": 7200,
+      "xpending": {
+        "pending": 0,
+        "min": null,
+        "max": null,
+        "consumers": []
+      },
+      "lag": 0
+    },
+    "tablero": {
+      "procesadas": 7200,
+      "xpending": {
+        "pending": 0,
+        "min": null,
+        "max": null,
+        "consumers": []
+      },
+      "lag": 0
+    }
+  },
+  "filas": {
+    "lecturas": 853953,
+    "lecturas_tipo": 853953
+  },
+  "controles_esperados": {
+    "producidos": 7200,
+    "filas_por_tabla": 853953
+  },
+  "ok": true,
+  "explicacion": "871200 eventos menos 17243 repetidos exactos y 4 colisiones de estación y milisegundo = 853953 claves distintas."
+}
